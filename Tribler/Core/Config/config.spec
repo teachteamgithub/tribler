@@ -105,5 +105,5 @@ poll_interval = integer(min=1, default=5)
 history_size = integer(min=1, default=20)
 
 [credit_mining]
-enabled = boolean(default=False)
+enabled = boolean(default=True)
 sources = string_list(default=list())
