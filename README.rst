@@ -113,3 +113,6 @@ Submodule notes
 .. |doi| image:: https://zenodo.org/badge/8411137.svg
     :target: https://zenodo.org/badge/latestdoi/8411137
     :alt: DOI number
+
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
